@@ -1,0 +1,13 @@
+{
+  "appName": "guestbook",
+  "userGivenName": "guestbook",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "tree/master/kustomize-guestbook",
+  "srcRepoURL": "https://github.com/argoproj/argocd-example-apps.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}

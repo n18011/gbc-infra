@@ -1,0 +1,11 @@
+{
+  "appName": "guestbook",
+  "userGivenName": "guestbook",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/guestbook/overlays/gbc-project",
+  "srcRepoURL": "https://github.com/n18011/gbc-infra.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
